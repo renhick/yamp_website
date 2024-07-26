@@ -152,25 +152,25 @@ export const FAQItem = [
 export const developer = [
     {
         id: 1,
-        title: 'Documentation',
+        title: "Documentation",
         description: "Discover how your API works, access code samples and SDKs and find step-by-step guides for server development",
         button: "Explore",
     },
     {
         id: 2,
-        title: 'Documentation',
+        title: "Documentation",
         description: "Discover how your API works, access code samples and SDKs and find step-by-step guides for server development",
         button: "Explore",
     },
     {
         id: 3,
-        title: 'Documentation',
+        title: "Documentation",
         description: "Discover how your API works, access code samples and SDKs and find step-by-step guides for server development",
         button: "Explore",
     },
     {
         id: 4,
-        title: 'Documentation',
+        title: "Documentation",
         description: "Discover how your API works, access code samples and SDKs and find step-by-step guides for server development",
         button: "Explore",
     }

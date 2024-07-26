@@ -39,17 +39,17 @@ const page = () => {
             <div className="w-full p-5 border border-input rounded-lg bg-[url('/footer-grid.svg')] bg-[length:200%]">
               <Minimize2 className='w-10 h-10 text-primary' />
               <h3 className='mt-2 font-medium'>Easy to use</h3>
-              <p className='text-muted-foreground'>YAMP stands out for its remarkable ease of use, featuring a user-friendly interface that ensures you can start playing with minimal effort simply click and you are ready to go.</p>
+              <p className='text-muted-foreground'>YAMP stands out for its remarkable ease of use. Featuring a userfriendly interface that ensures you can start playing with minimal effort simply click and you are ready to go.</p>
             </div>
             <div className="w-full p-5 border border-input rounded-lg bg-[url('/footer-grid.svg')] bg-[length:200%]">
               <ShieldCheck className='w-10 h-10 text-primary' />
               <h3 className='mt-2 font-medium'>Easy to use</h3>
-              <p className='text-muted-foreground'>YAMP stands out for its remarkable ease of use, featuring a user-friendly interface that ensures you can start playing with minimal effort simply click and you are ready to go.</p>
+              <p className='text-muted-foreground'>YAMP stands out for its remarkable ease of use. Featuring a userfriendly interface that ensures you can start playing with minimal effort simply click and you are ready to go.</p>
             </div>
             <div className="w-full p-5 border border-input rounded-lg bg-[url('/footer-grid.svg')] bg-[length:200%]">
               <Zap className='w-10 h-10 text-primary' />
               <h3 className='mt-2 font-medium'>Easy to use</h3>
-              <p className='text-muted-foreground'>YAMP stands out for its remarkable ease of use, featuring a user-friendly interface that ensures you can start playing with minimal effort simply click and you are ready to go.</p>
+              <p className='text-muted-foreground'>YAMP stands out for its remarkable ease of use. Featuring a userfriendly interface that ensures you can start playing with minimal effort simply click and you are ready to go.</p>
             </div>
           </div>
         </section>

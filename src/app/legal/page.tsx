@@ -31,7 +31,7 @@ const page = () => {
                     </div>
                     <div>
                         <p><strong className='text-white'>External Links:</strong></p>
-                        <p>Our website contains links to third-party websites "external links". As the content of these websites</p>
+                        <p>Our website contains links to third-party websites external links. As the content of these websites</p>
                     </div>
                 </div>
             </section>
