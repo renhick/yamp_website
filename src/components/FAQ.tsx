@@ -16,7 +16,7 @@ const FAQ = () => {
             <MaxWidthWrapper>
                 <div className='w-full flex justify-center items-center flex-col'>
                     <h1 className='text-4xl font-bold'>Frequently asked questions</h1>
-                    <p className='max-w-prose text-muted-foreground text-center mt-2'>Need help with something? First of all, check out this list, and you might find what you're looking for.</p>
+                    <p className='max-w-prose text-muted-foreground text-center mt-2'>Need help with something? First of all, check out this list, and you might find what you are looking for.</p>
                 </div>
 
                 <div className='mt-10 grid grid-cols-1 md:grid-cols-2 gap-5'>
