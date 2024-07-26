@@ -17,7 +17,7 @@ export const gridItems = [
     },
     {
         id: 3,
-        title: "click & play",
+        title: "click and play",
         description: "Get into the action instantly with YAMP Launcher for GTA V",
         boxClassName: "w-full h-full flex items-center justify-center flex-col z-10",
         titleClassName: "text-sm text-muted-foreground text-center",

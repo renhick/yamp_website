@@ -16,7 +16,7 @@ const Banner = () => {
                                 <Image src="/logo.png" width="1080" height="1080" alt="Logo"></Image>
                             </div>
                             <h1 className='text-2xl mt-2 font-bold'>Get in touch with our Team.</h1>
-                            <p className='max-w-[25rem] text-muted-foreground'>If you have any questions, don't be shy to contact us. We'll respond within 24 hours.</p>
+                            <p className='max-w-[25rem] text-muted-foreground'>If you have any questions, do not be shy to contact us. We will respond within 24 hours.</p>
                         </div>
                         <div className='flex items-center gap-2'>
                             <Link href="/">

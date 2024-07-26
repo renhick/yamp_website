@@ -19,7 +19,7 @@ const page = () => {
         <section className='mt-40'>
           <div className="w-full relative p-10 bg-[url('/bg_2.png')] bg-cover bg-center rounded-lg border border-input flex justify-center flex-col overflow-hidden bg-background" >
             <h1 className='text-4xl md:text-6xl font-bold'>Dive into the world of <FlipWords className='hidden md:block' words={words} /> <span className='md:hidden'>roleplay</span> with Yamp.</h1>
-            <p className='text-muted-foreground max-w-prose mt-5'>Requiring just ~320MB for the full client and ~6MB for the installer/updater. Other system specification are the same as for GTAV</p>
+            <p className='text-muted-foreground max-w-prose mt-5'>Requiring just around 320MB for the full client and around 6MB for the installer and updater. Other system specification are the same as for GTAV</p>
             <div className='mt-5 flex flex-col md:flex-row md:items-center gap-2'>
               <Link href="/">
                 <Button className='flex items-center gap-2 bg-white text-black hover:bg-white/50'>
@@ -39,17 +39,17 @@ const page = () => {
             <div className="w-full p-5 border border-input rounded-lg bg-[url('/footer-grid.svg')] bg-[length:200%]">
               <Minimize2 className='w-10 h-10 text-primary' />
               <h3 className='mt-2 font-medium'>Easy to use</h3>
-              <p className='text-muted-foreground'>YAMP stands out for its remarkable ease of use, featuring a user-friendly interface that ensures you can start playing with minimal effort—simply click and you're ready to go.</p>
+              <p className='text-muted-foreground'>YAMP stands out for its remarkable ease of use, featuring a user-friendly interface that ensures you can start playing with minimal effort simply click and you are ready to go.</p>
             </div>
             <div className="w-full p-5 border border-input rounded-lg bg-[url('/footer-grid.svg')] bg-[length:200%]">
               <ShieldCheck className='w-10 h-10 text-primary' />
               <h3 className='mt-2 font-medium'>Easy to use</h3>
-              <p className='text-muted-foreground'>YAMP stands out for its remarkable ease of use, featuring a user-friendly interface that ensures you can start playing with minimal effort—simply click and you're ready to go.</p>
+              <p className='text-muted-foreground'>YAMP stands out for its remarkable ease of use, featuring a user-friendly interface that ensures you can start playing with minimal effort simply click and you are ready to go.</p>
             </div>
             <div className="w-full p-5 border border-input rounded-lg bg-[url('/footer-grid.svg')] bg-[length:200%]">
               <Zap className='w-10 h-10 text-primary' />
               <h3 className='mt-2 font-medium'>Easy to use</h3>
-              <p className='text-muted-foreground'>YAMP stands out for its remarkable ease of use, featuring a user-friendly interface that ensures you can start playing with minimal effort—simply click and you're ready to go.</p>
+              <p className='text-muted-foreground'>YAMP stands out for its remarkable ease of use, featuring a user-friendly interface that ensures you can start playing with minimal effort simply click and you are ready to go.</p>
             </div>
           </div>
         </section>
